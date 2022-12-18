@@ -1,7 +1,11 @@
 # CursedHelloWorld
 ## C++ and Rust
 ### Short description
-The necessary information can be obtained as follows:
+The necessary information can be obtained with following command:
+```sh
+$ make info
+```
+Example:
 ```sh
 who@what:~/.../CursedHelloWorld$ make info
 USAGE:
